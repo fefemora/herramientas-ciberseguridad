@@ -22,7 +22,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=urlscan.io&amp;sz=32" width="16" height="16" alt=""> [urlscan.io](https://urlscan.io/) | Sirve para buscar análisis previos de páginas y revisar sus redirecciones y capturas. |
 | <img src="https://www.google.com/s2/favicons?domain=urlhaus.abuse.ch&amp;sz=32" width="16" height="16" alt=""> [URLhaus](https://urlhaus.abuse.ch/browse/) | Permite consultar si una URL está asociada a la distribución de malware. |
 | <img src="https://www.google.com/s2/favicons?domain=abuseipdb.com&amp;sz=32" width="16" height="16" alt=""> [AbuseIPDB](https://www.abuseipdb.com/) | Muestra los reportes de abuso asociados a una dirección IP. |
-| <img src="https://www.google.com/s2/favicons?domain=gchq.github.io&amp;sz=32" width="16" height="16" alt=""> [CyberChef](https://gchq.github.io/CyberChef/) | Decodifica datos y calcula hashes directamente en el navegador. [Código fuente](https://github.com/gchq/CyberChef). |
+| <img src="https://www.google.com/s2/favicons?domain=gchq.github.io&amp;sz=32" width="16" height="16" alt=""> [CyberChef](https://gchq.github.io/CyberChef/) | Decodifica datos y calcula hashes directamente en el navegador. [Código fuente](https://github.com/gchq/CyberChef). [Ver guía](cyberchef/README.md) |
 
 ## Recuperación de archivos
 

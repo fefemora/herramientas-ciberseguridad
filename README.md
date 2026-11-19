@@ -16,3 +16,4 @@ Cada guía se publicará en una carpeta propia dentro de su sección. Las guías
 - [Revisar si un correo aparece en una filtración](web/have-i-been-pwned/README.md#revisar-si-un-correo-aparece-en-una-filtración) con Have I Been Pwned.
 - [Diagnosticar una advertencia de certificado HTTPS](web/qualys-ssl-labs/README.md#diagnosticar-una-advertencia-de-certificado-https) con Qualys SSL Labs.
 - [Revisar los registros MX después de una migración de correo](web/google-admin-toolbox-dig/README.md#revisar-los-registros-mx-después-de-una-migración-de-correo) con Google Admin Toolbox Dig.
+- [Decodificar un campo Base64 de un registro](web/cyberchef/README.md#decodificar-un-campo-base64-de-un-registro) con CyberChef.
