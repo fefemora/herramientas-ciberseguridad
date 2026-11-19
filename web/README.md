@@ -6,7 +6,7 @@
 
 | Herramienta | Para qué sirve |
 | --- | --- |
-| <img src="https://www.google.com/s2/favicons?domain=dnschecker.org&amp;sz=32" width="16" height="16" alt=""> [DNSChecker](https://dnschecker.org/) | Permite comparar las respuestas de distintos resolvedores públicos para un registro DNS. |
+| <img src="https://www.google.com/s2/favicons?domain=dnschecker.org&amp;sz=32" width="16" height="16" alt=""> [DNSChecker](https://dnschecker.org/) | Permite comparar las respuestas de distintos resolvedores públicos para un registro DNS. [Ver guía](dnschecker/README.md) |
 | <img src="https://www.google.com/s2/favicons?domain=google.com&amp;sz=32" width="16" height="16" alt=""> [Google Admin Toolbox Dig](https://toolbox.googleapps.com/apps/dig/) | Sirve para consultar registros DNS desde el navegador. |
 | <img src="https://www.google.com/s2/favicons?domain=mxtoolbox.com&amp;sz=32" width="16" height="16" alt=""> [MXToolbox SuperTool](https://mxtoolbox.com/SuperTool.aspx) | Ayuda a diagnosticar problemas de correo al revisar registros MX y listas de bloqueo. |
 | <img src="https://www.google.com/s2/favicons?domain=ssllabs.com&amp;sz=32" width="16" height="16" alt=""> [Qualys SSL Labs](https://www.ssllabs.com/ssltest/) | Evalúa el certificado, la cadena de confianza y la configuración TLS de un sitio público. |
