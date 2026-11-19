@@ -30,3 +30,4 @@ Cada guía se publicará en una carpeta propia dentro de su sección. Las guías
 - [Buscar un descifrador para archivos afectados por ransomware](web/no-more-ransom/README.md#buscar-un-descifrador-para-archivos-afectados-por-ransomware) con No More Ransom.
 - [Investigar un rechazo de correo por reputación de IP](web/mxtoolbox/README.md#investigar-un-rechazo-de-correo-por-reputación-de-ip) con MXToolbox SuperTool.
 - [Verificar la seguridad del correo de un dominio](web/internet-nl/README.md#verificar-la-seguridad-del-correo-de-un-dominio) con Internet.nl.
+- [Revisar un enlace sospechoso con un informe existente](web/urlscan/README.md#revisar-un-enlace-sospechoso-con-un-informe-existente) con urlscan.io.
