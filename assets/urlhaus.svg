@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+  <title>URLhaus</title>
+  <rect width="1200" height="200" rx="18" fill="#14283F"/>
+  <path d="M32 45v110" stroke="#059669" stroke-width="8" stroke-linecap="round"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="63" y="96" font-size="46" font-weight="700" fill="#FFFFFF">URLhaus</text>
+    <text x="65" y="139" font-size="25" fill="#A7F3D0">Consulta de enlaces asociados a malware</text>
+  </g>
+  <g transform="translate(1065 100)">
+    <rect x="-75" y="-75" width="150" height="150" rx="24" fill="#065F46"/>
+    <g fill="none" stroke="#A7F3D0" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"><path d="M0-48 44-32v29c0 24-18 42-44 54-26-12-44-30-44-54v-29Z"/><path d="M0-22v27m0 15v2"/></g>
+  </g>
+</svg>
