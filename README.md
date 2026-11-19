@@ -13,3 +13,4 @@ Cada guía se publicará en una carpeta propia dentro de su sección. Las guías
 
 - [Revisar si un cambio de DNS ya se refleja](web/dnschecker/README.md#comprobar-un-cambio-de-registro-a) con DNSChecker.
 - [Revisar un archivo sospechoso por SHA-256](web/virustotal/README.md#revisar-un-archivo-sospechoso-por-sha-256) con VirusTotal.
+- [Revisar si un correo aparece en una filtración](web/have-i-been-pwned/README.md#revisar-si-un-correo-aparece-en-una-filtración) con Have I Been Pwned.
