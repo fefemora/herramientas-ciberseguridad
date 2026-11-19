@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+  <title>No More Ransom</title>
+  <rect width="1200" height="200" rx="18" fill="#14283F"/>
+  <path d="M32 45v110" stroke="#059669" stroke-width="8" stroke-linecap="round"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="63" y="96" font-size="46" font-weight="700" fill="#FFFFFF">No More Ransom</text>
+    <text x="65" y="139" font-size="25" fill="#A7F3D0">Recuperación de archivos cifrados</text>
+  </g>
+  <g transform="translate(1065 100)">
+    <rect x="-75" y="-75" width="150" height="150" rx="24" fill="#065F46"/>
+    <g fill="none" stroke="#A7F3D0" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"><rect x="-35" y="-3" width="70" height="49" rx="9"/><path d="M-23-3v-19a23 23 0 0 1 46 0M0 15v15"/><circle cy="15" r="2"/></g>
+  </g>
+</svg>

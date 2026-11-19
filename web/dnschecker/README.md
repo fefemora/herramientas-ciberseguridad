@@ -1,6 +1,13 @@
 # <img src="https://www.google.com/s2/favicons?domain=dnschecker.org&amp;sz=32" width="32" height="32" alt=""> DNSChecker
 
-[Volver al catálogo web](../README.md) · [Abrir DNSChecker](https://dnschecker.org/)
+<p align="center"><img src="../../assets/dnschecker.svg" alt="" width="100%"></p>
+
+[Volver al catálogo web](../README.md) · [Volver a la portada](../../README.md#qué-necesitas-resolver) · [Abrir DNSChecker](https://dnschecker.org/)
+
+<p align="center">
+  <a href="../README.md"><img src="https://img.shields.io/badge/Herramienta%20web-14283F?style=flat-square" alt="Herramienta web"></a>
+  <a href="#comprobar-un-cambio-de-registro-a"><img src="https://img.shields.io/badge/Registro%20A-065F46?style=flat-square" alt="Registro A"></a>
+</p>
 
 DNSChecker consulta registros DNS públicos desde distintos resolvedores. En soporte TI, sirve para comprobar qué respuesta obtienen usuarios de distintas redes después de un cambio. La consulta se realiza mediante un servicio externo. Usa nombres de dominio públicos.
 

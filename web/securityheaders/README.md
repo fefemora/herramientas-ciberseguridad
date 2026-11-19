@@ -1,6 +1,13 @@
 # <img src="https://www.google.com/s2/favicons?domain=securityheaders.com&amp;sz=32" width="32" height="32" alt=""> SecurityHeaders
 
+<p align="center"><img src="../../assets/securityheaders.svg" alt="" width="100%"></p>
+
 [Volver al catálogo web](../README.md) · [Volver a la portada](../../README.md#qué-necesitas-resolver) · [Abrir SecurityHeaders](https://securityheaders.com/)
+
+<p align="center">
+  <a href="../README.md"><img src="https://img.shields.io/badge/Herramienta%20web-14283F?style=flat-square" alt="Herramienta web"></a>
+  <a href="#comprobar-cabeceras-http-después-de-un-cambio"><img src="https://img.shields.io/badge/Cabeceras%20HTTP-065F46?style=flat-square" alt="Cabeceras HTTP"></a>
+</p>
 
 SecurityHeaders inspecciona las cabeceras de la respuesta HTTP que recibe desde Internet. Sirve para verificar si una página pública entrega las cabeceras que el equipo configuró en el servidor, el proxy inverso o el CDN.
 

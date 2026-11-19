@@ -1,6 +1,13 @@
 # <img src="https://www.google.com/s2/favicons?domain=google.com&amp;sz=32" width="32" height="32" alt=""> Google Admin Toolbox Dig
 
+<p align="center"><img src="../../assets/google-admin-toolbox-dig.svg" alt="" width="100%"></p>
+
 [Volver al catálogo web](../README.md) · [Volver a la portada](../../README.md#qué-necesitas-resolver) · [Abrir Dig](https://toolbox.googleapps.com/apps/dig/)
+
+<p align="center">
+  <a href="../README.md"><img src="https://img.shields.io/badge/Herramienta%20web-14283F?style=flat-square" alt="Herramienta web"></a>
+  <a href="#revisar-los-registros-mx-después-de-una-migración-de-correo"><img src="https://img.shields.io/badge/Registros%20MX-065F46?style=flat-square" alt="Registros MX"></a>
+</p>
 
 Dig permite consultar registros DNS públicos desde el navegador. Para diagnosticar correo entrante, puedes usarlo para revisar qué servidores anuncia el dominio en sus registros MX y comparar la respuesta con la configuración del proveedor.
 

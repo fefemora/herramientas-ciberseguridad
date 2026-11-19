@@ -1,6 +1,13 @@
 # <img src="https://www.google.com/s2/favicons?domain=haveibeenpwned.com&amp;sz=32" width="32" height="32" alt=""> Have I Been Pwned
 
+<p align="center"><img src="../../assets/have-i-been-pwned.svg" alt="" width="100%"></p>
+
 [Volver al catálogo web](../README.md) · [Volver a la portada](../../README.md#qué-necesitas-resolver) · [Abrir Have I Been Pwned](https://haveibeenpwned.com/)
+
+<p align="center">
+  <a href="../README.md"><img src="https://img.shields.io/badge/Herramienta%20web-14283F?style=flat-square" alt="Herramienta web"></a>
+  <a href="#revisar-si-un-correo-aparece-en-una-filtración"><img src="https://img.shields.io/badge/Filtraciones-065F46?style=flat-square" alt="Filtraciones"></a>
+</p>
 
 Have I Been Pwned (HIBP) permite consultar si una dirección de correo figura en el catálogo de filtraciones del servicio. Sirve para evaluar una posible exposición de datos en un servicio externo y decidir qué revisar en la cuenta.
 

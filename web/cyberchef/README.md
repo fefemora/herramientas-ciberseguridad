@@ -1,6 +1,13 @@
 # <img src="https://www.google.com/s2/favicons?domain=gchq.github.io&amp;sz=32" width="32" height="32" alt=""> CyberChef
 
+<p align="center"><img src="../../assets/cyberchef.svg" alt="" width="100%"></p>
+
 [Volver al catálogo web](../README.md) · [Volver a la portada](../../README.md#qué-necesitas-resolver) · [Abrir CyberChef](https://gchq.github.io/CyberChef/)
+
+<p align="center">
+  <a href="../README.md"><img src="https://img.shields.io/badge/Herramienta%20web-14283F?style=flat-square" alt="Herramienta web"></a>
+  <a href="#decodificar-un-campo-base64-de-un-registro"><img src="https://img.shields.io/badge/Base64-065F46?style=flat-square" alt="Base64"></a>
+</p>
 
 CyberChef es una herramienta de código abierto que transforma datos mediante operaciones en el navegador. Puedes encadenar operaciones en el panel **Recipe** y revisar su resultado en **Output**.
 

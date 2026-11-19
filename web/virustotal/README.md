@@ -1,6 +1,13 @@
 # <img src="https://www.google.com/s2/favicons?domain=virustotal.com&amp;sz=32" width="32" height="32" alt=""> VirusTotal
 
+<p align="center"><img src="../../assets/virustotal.svg" alt="" width="100%"></p>
+
 [Volver al catálogo web](../README.md) · [Volver a la portada](../../README.md#qué-necesitas-resolver) · [Abrir VirusTotal](https://www.virustotal.com/gui/home/search)
+
+<p align="center">
+  <a href="../README.md"><img src="https://img.shields.io/badge/Herramienta%20web-14283F?style=flat-square" alt="Herramienta web"></a>
+  <a href="#revisar-un-archivo-sospechoso-por-sha-256"><img src="https://img.shields.io/badge/An%C3%A1lisis%20por%20hash-065F46?style=flat-square" alt="Análisis por hash"></a>
+</p>
 
 VirusTotal reúne los resultados de distintos motores de seguridad. Puedes buscar un informe existente por el SHA-256 de un archivo. La búsqueda se realiza en un servicio externo y envía el hash consultado.
 

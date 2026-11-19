@@ -1,6 +1,13 @@
 # <img src="https://www.google.com/s2/favicons?domain=nomoreransom.org&amp;sz=32" width="32" height="32" alt=""> No More Ransom
 
+<p align="center"><img src="../../assets/no-more-ransom.svg" alt="" width="100%"></p>
+
 [Volver al catálogo web](../README.md) · [Volver a la portada](../../README.md#qué-necesitas-resolver) · [Abrir No More Ransom](https://www.nomoreransom.org/)
+
+<p align="center">
+  <a href="../README.md"><img src="https://img.shields.io/badge/Herramienta%20web-14283F?style=flat-square" alt="Herramienta web"></a>
+  <a href="#buscar-un-descifrador-para-archivos-afectados-por-ransomware"><img src="https://img.shields.io/badge/Descifradores-065F46?style=flat-square" alt="Descifradores"></a>
+</p>
 
 No More Ransom mantiene un catálogo de herramientas de descifrado para variantes específicas de ransomware. **Crypto Sheriff** ayuda a identificar la familia mediante muestras cifradas y datos de la nota de rescate. Los descifradores del catálogo se descargan y se ejecutan de acuerdo con el instructivo de cada proveedor.
 

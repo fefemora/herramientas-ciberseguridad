@@ -1,6 +1,13 @@
 # <img src="https://www.google.com/s2/favicons?domain=ssllabs.com&amp;sz=32" width="32" height="32" alt=""> Qualys SSL Labs
 
+<p align="center"><img src="../../assets/qualys-ssl-labs.svg" alt="" width="100%"></p>
+
 [Volver al catálogo web](../README.md) · [Volver a la portada](../../README.md#qué-necesitas-resolver) · [Abrir SSL Server Test](https://www.ssllabs.com/ssltest/)
+
+<p align="center">
+  <a href="../README.md"><img src="https://img.shields.io/badge/Herramienta%20web-14283F?style=flat-square" alt="Herramienta web"></a>
+  <a href="#diagnosticar-una-advertencia-de-certificado-https"><img src="https://img.shields.io/badge/Certificados%20TLS-065F46?style=flat-square" alt="Certificados TLS"></a>
+</p>
 
 SSL Server Test revisa desde Internet el certificado y la configuración TLS que presenta un sitio público. En soporte TI sirve para comprobar si una advertencia del navegador también aparece al evaluar el servicio desde fuera de la red del usuario.
 
