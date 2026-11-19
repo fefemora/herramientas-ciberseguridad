@@ -18,3 +18,4 @@ Cada guía se publicará en una carpeta propia dentro de su sección. Las guías
 - [Revisar los registros MX después de una migración de correo](web/google-admin-toolbox-dig/README.md#revisar-los-registros-mx-después-de-una-migración-de-correo) con Google Admin Toolbox Dig.
 - [Decodificar un campo Base64 de un registro](web/cyberchef/README.md#decodificar-un-campo-base64-de-un-registro) con CyberChef.
 - [Comprobar cabeceras HTTP después de un cambio](web/securityheaders/README.md#comprobar-cabeceras-http-después-de-un-cambio) con SecurityHeaders.
+- [Buscar un descifrador para archivos afectados por ransomware](web/no-more-ransom/README.md#buscar-un-descifrador-para-archivos-afectados-por-ransomware) con No More Ransom.

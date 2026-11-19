@@ -28,6 +28,6 @@
 
 | Herramienta | Para qué sirve |
 | --- | --- |
-| <img src="https://www.google.com/s2/favicons?domain=nomoreransom.org&amp;sz=32" width="16" height="16" alt=""> [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) | Ayuda a encontrar un descifrador para una familia de ransomware. Los descifradores se ejecutan localmente. |
+| <img src="https://www.google.com/s2/favicons?domain=nomoreransom.org&amp;sz=32" width="16" height="16" alt=""> [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) | Ayuda a encontrar un descifrador para una familia de ransomware. Los descifradores se ejecutan localmente. [Ver guía](no-more-ransom/README.md) |
 
 Para revisar un archivo interno, busca primero su hash. Antes de enviar archivos o URL a un servicio externo, revisa la visibilidad de los resultados y si los datos incluyen información confidencial.
