@@ -1,4 +1,4 @@
-# DNSChecker
+# <img src="https://www.google.com/s2/favicons?domain=dnschecker.org&amp;sz=32" width="32" height="32" alt=""> DNSChecker
 
 [Volver al catálogo web](../README.md) · [Abrir DNSChecker](https://dnschecker.org/)
 
