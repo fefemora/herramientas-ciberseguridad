@@ -29,7 +29,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=haveibeenpwned.com&amp;sz=32" width="16" height="16" alt=""> [Have I Been Pwned](https://haveibeenpwned.com/) | Indica si una dirección de correo aparece en filtraciones conocidas. [Ver guía](have-i-been-pwned/README.md) |
 | <img src="https://www.google.com/s2/favicons?domain=urlscan.io&amp;sz=32" width="16" height="16" alt=""> [urlscan.io](https://urlscan.io/) | Sirve para buscar análisis previos de páginas y revisar sus redirecciones y capturas. [Ver guía](urlscan/README.md) |
 | <img src="https://www.google.com/s2/favicons?domain=urlhaus.abuse.ch&amp;sz=32" width="16" height="16" alt=""> [URLhaus](https://urlhaus.abuse.ch/browse/) | Permite consultar si una URL está asociada a la distribución de malware. [Ver guía](urlhaus/README.md) |
-| <img src="https://www.google.com/s2/favicons?domain=abuseipdb.com&amp;sz=32" width="16" height="16" alt=""> [AbuseIPDB](https://www.abuseipdb.com/) | Muestra los reportes de abuso asociados a una dirección IP. |
+| <img src="https://www.google.com/s2/favicons?domain=abuseipdb.com&amp;sz=32" width="16" height="16" alt=""> [AbuseIPDB](https://www.abuseipdb.com/) | Muestra los reportes de abuso asociados a una dirección IP. [Ver guía](abuseipdb/README.md) |
 | <img src="https://www.google.com/s2/favicons?domain=gchq.github.io&amp;sz=32" width="16" height="16" alt=""> [CyberChef](https://gchq.github.io/CyberChef/) | Decodifica datos y calcula hashes directamente en el navegador. [Código fuente](https://github.com/gchq/CyberChef). [Ver guía](cyberchef/README.md) |
 
 ## Recuperación de archivos

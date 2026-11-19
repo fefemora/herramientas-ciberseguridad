@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+  <title>AbuseIPDB</title>
+  <rect width="1200" height="200" rx="18" fill="#14283F"/>
+  <path d="M32 45v110" stroke="#059669" stroke-width="8" stroke-linecap="round"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="63" y="96" font-size="46" font-weight="700" fill="#FFFFFF">AbuseIPDB</text>
+    <text x="65" y="139" font-size="25" fill="#A7F3D0">Revisión de reputación de direcciones IP</text>
+  </g>
+  <g transform="translate(1065 100)">
+    <rect x="-75" y="-75" width="150" height="150" rx="24" fill="#065F46"/>
+    <g fill="none" stroke="#A7F3D0" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"><circle cx="-15" cy="-10" r="33"/><ellipse cx="-15" cy="-10" rx="15" ry="33"/><path d="M-48-10h66"/><circle cx="25" cy="18" r="22" fill="#065F46"/><path d="m40 34 15 15"/></g>
+  </g>
+</svg>

@@ -32,3 +32,4 @@ Cada guía se publicará en una carpeta propia dentro de su sección. Las guías
 - [Verificar la seguridad del correo de un dominio](web/internet-nl/README.md#verificar-la-seguridad-del-correo-de-un-dominio) con Internet.nl.
 - [Revisar un enlace sospechoso con un informe existente](web/urlscan/README.md#revisar-un-enlace-sospechoso-con-un-informe-existente) con urlscan.io.
 - [Comprobar si un enlace está asociado a malware](web/urlhaus/README.md#comprobar-si-un-enlace-está-asociado-a-malware) con URLhaus.
+- [Revisar reportes de abuso sobre una IP](web/abuseipdb/README.md#revisar-reportes-de-abuso-sobre-una-ip) con AbuseIPDB.
