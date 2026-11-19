@@ -10,7 +10,7 @@
 | <img src="https://www.google.com/s2/favicons?domain=google.com&amp;sz=32" width="16" height="16" alt=""> [Google Admin Toolbox Dig](https://toolbox.googleapps.com/apps/dig/) | Sirve para consultar registros DNS desde el navegador. [Ver guía](google-admin-toolbox-dig/README.md) |
 | <img src="https://www.google.com/s2/favicons?domain=mxtoolbox.com&amp;sz=32" width="16" height="16" alt=""> [MXToolbox SuperTool](https://mxtoolbox.com/SuperTool.aspx) | Ayuda a diagnosticar problemas de correo al revisar registros MX y listas de bloqueo. |
 | <img src="https://www.google.com/s2/favicons?domain=ssllabs.com&amp;sz=32" width="16" height="16" alt=""> [Qualys SSL Labs](https://www.ssllabs.com/ssltest/) | Evalúa el certificado, la cadena de confianza y la configuración TLS de un sitio público. [Ver guía](qualys-ssl-labs/README.md) |
-| <img src="https://www.google.com/s2/favicons?domain=securityheaders.com&amp;sz=32" width="16" height="16" alt=""> [SecurityHeaders](https://securityheaders.com/) | Muestra las cabeceras de seguridad HTTP que entrega un sitio. |
+| <img src="https://www.google.com/s2/favicons?domain=securityheaders.com&amp;sz=32" width="16" height="16" alt=""> [SecurityHeaders](https://securityheaders.com/) | Muestra las cabeceras de seguridad HTTP que entrega un sitio. [Ver guía](securityheaders/README.md) |
 | <img src="https://www.google.com/s2/favicons?domain=internet.nl&amp;sz=32" width="16" height="16" alt=""> [Internet.nl](https://internet.nl/) | Comprueba si un sitio web o un servicio de correo admite estándares de seguridad. [Código fuente](https://github.com/internetstandards/Internet.nl). |
 
 ## Archivos sospechosos, filtraciones y reputación
