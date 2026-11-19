@@ -1,6 +1,14 @@
 # Herramientas web
 
-[Volver al catálogo](../README.md)
+<p align="center"><img src="../assets/web.svg" alt="" width="100%"></p>
+
+[Volver a la portada](../README.md) · [Ver instalables](../instalables/README.md)
+
+<p align="center">
+  <a href="#dns-correo-y-sitios-web"><img src="https://img.shields.io/badge/DNS%20y%20correo-14283F?style=flat-square" alt="DNS y correo"></a>
+  <a href="#archivos-sospechosos-filtraciones-y-reputación"><img src="https://img.shields.io/badge/Reputaci%C3%B3n-065F46?style=flat-square" alt="Reputación"></a>
+  <a href="#recuperación-de-archivos"><img src="https://img.shields.io/badge/Recuperaci%C3%B3n-14283F?style=flat-square" alt="Recuperación"></a>
+</p>
 
 ## DNS, correo y sitios web
 
@@ -8,7 +16,7 @@
 | --- | --- |
 | <img src="https://www.google.com/s2/favicons?domain=dnschecker.org&amp;sz=32" width="16" height="16" alt=""> [DNSChecker](https://dnschecker.org/) | Permite comparar las respuestas de distintos resolvedores públicos para un registro DNS. [Ver guía](dnschecker/README.md) |
 | <img src="https://www.google.com/s2/favicons?domain=google.com&amp;sz=32" width="16" height="16" alt=""> [Google Admin Toolbox Dig](https://toolbox.googleapps.com/apps/dig/) | Sirve para consultar registros DNS desde el navegador. [Ver guía](google-admin-toolbox-dig/README.md) |
-| <img src="https://www.google.com/s2/favicons?domain=mxtoolbox.com&amp;sz=32" width="16" height="16" alt=""> [MXToolbox SuperTool](https://mxtoolbox.com/SuperTool.aspx) | Ayuda a diagnosticar problemas de correo al revisar registros MX y listas de bloqueo. |
+| <img src="https://www.google.com/s2/favicons?domain=mxtoolbox.com&amp;sz=32" width="16" height="16" alt=""> [MXToolbox SuperTool](https://mxtoolbox.com/SuperTool.aspx) | Ayuda a diagnosticar problemas de correo al revisar registros MX y listas de bloqueo. [Ver guía](mxtoolbox/README.md) |
 | <img src="https://www.google.com/s2/favicons?domain=ssllabs.com&amp;sz=32" width="16" height="16" alt=""> [Qualys SSL Labs](https://www.ssllabs.com/ssltest/) | Evalúa el certificado, la cadena de confianza y la configuración TLS de un sitio público. [Ver guía](qualys-ssl-labs/README.md) |
 | <img src="https://www.google.com/s2/favicons?domain=securityheaders.com&amp;sz=32" width="16" height="16" alt=""> [SecurityHeaders](https://securityheaders.com/) | Muestra las cabeceras de seguridad HTTP que entrega un sitio. [Ver guía](securityheaders/README.md) |
 | <img src="https://www.google.com/s2/favicons?domain=internet.nl&amp;sz=32" width="16" height="16" alt=""> [Internet.nl](https://internet.nl/) | Comprueba si un sitio web o un servicio de correo admite estándares de seguridad. [Código fuente](https://github.com/internetstandards/Internet.nl). |

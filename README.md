@@ -1,6 +1,15 @@
 # Herramientas de ciberseguridad y diagnóstico TI
 
+<p align="center"><img src="assets/portada.svg" alt="" width="100%"></p>
+
 Catálogo en español de herramientas web con funciones gratuitas y utilidades instalables para soporte TI y ciberseguridad. Reúne recursos para resolver problemas habituales, como revisar un cambio de DNS, diagnosticar fallas de correo o analizar un archivo sospechoso.
+
+<p align="center"><a href="web/README.md">Herramientas web</a> · <a href="instalables/README.md">Herramientas instalables</a> · <a href="#qué-necesitas-resolver">Casos de uso</a></p>
+
+<p align="center">
+  <a href="#qué-necesitas-resolver"><img src="https://img.shields.io/badge/Diagn%C3%B3stico%20TI-14283F?style=flat-square" alt="Diagnóstico TI"></a>
+  <a href="web/README.md"><img src="https://img.shields.io/badge/Ciberseguridad-065F46?style=flat-square" alt="Ciberseguridad"></a>
+</p>
 
 | Sección | Qué encontrarás |
 | --- | --- |
@@ -19,3 +28,4 @@ Cada guía se publicará en una carpeta propia dentro de su sección. Las guías
 - [Decodificar un campo Base64 de un registro](web/cyberchef/README.md#decodificar-un-campo-base64-de-un-registro) con CyberChef.
 - [Comprobar cabeceras HTTP después de un cambio](web/securityheaders/README.md#comprobar-cabeceras-http-después-de-un-cambio) con SecurityHeaders.
 - [Buscar un descifrador para archivos afectados por ransomware](web/no-more-ransom/README.md#buscar-un-descifrador-para-archivos-afectados-por-ransomware) con No More Ransom.
+- [Investigar un rechazo de correo por reputación de IP](web/mxtoolbox/README.md#investigar-un-rechazo-de-correo-por-reputación-de-ip) con MXToolbox SuperTool.

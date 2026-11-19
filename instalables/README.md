@@ -1,6 +1,13 @@
 # Herramientas instalables
 
-[Volver al catálogo](../README.md)
+<p align="center"><img src="../assets/instalables.svg" alt="" width="100%"></p>
+
+[Volver a la portada](../README.md) · [Ver herramientas web](../web/README.md)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Escritorio%20y%20portables-14283F?style=flat-square" alt="Escritorio y portables">
+  <img src="https://img.shields.io/badge/L%C3%ADnea%20de%20comandos-065F46?style=flat-square" alt="Línea de comandos">
+</p>
 
 | Herramienta | Modalidad | Para qué sirve |
 | --- | --- | --- |
