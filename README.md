@@ -12,3 +12,4 @@ Cada guía se publicará en una carpeta propia dentro de su sección. Las guías
 ## ¿Qué necesitas resolver?
 
 - [Revisar si un cambio de DNS ya se refleja](web/dnschecker/README.md#comprobar-un-cambio-de-registro-a) con DNSChecker.
+- [Revisar un archivo sospechoso por SHA-256](web/virustotal/README.md#revisar-un-archivo-sospechoso-por-sha-256) con VirusTotal.
