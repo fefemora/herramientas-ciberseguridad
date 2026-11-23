@@ -33,3 +33,5 @@ Cada guía se publicará en una carpeta propia dentro de su sección. Las guías
 - [Revisar un enlace sospechoso con un informe existente](web/urlscan/README.md#revisar-un-enlace-sospechoso-con-un-informe-existente) con urlscan.io.
 - [Comprobar si un enlace está asociado a malware](web/urlhaus/README.md#comprobar-si-un-enlace-está-asociado-a-malware) con URLhaus.
 - [Revisar reportes de abuso sobre una IP](web/abuseipdb/README.md#revisar-reportes-de-abuso-sobre-una-ip) con AbuseIPDB.
+- [Identificar qué aplicación se abre al iniciar sesión](instalables/autoruns/README.md#identificar-qué-aplicación-se-abre-al-iniciar-sesión) con Autoruns.
+- [Averiguar qué programa tiene abierto un archivo](instalables/process-explorer/README.md#averiguar-qué-programa-tiene-abierto-un-archivo) con Process Explorer.

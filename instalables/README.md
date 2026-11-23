@@ -17,3 +17,5 @@
 | <img src="https://www.google.com/s2/favicons?domain=curl.se&amp;sz=32" width="16" height="16" alt=""> [curl](https://curl.se/) | Línea de comandos | Sirve para diagnosticar conexiones HTTPS y revisar respuestas HTTP. |
 | 📄 [evtx_dump](https://github.com/omerbenamram/evtx/releases) | Línea de comandos | Lee registros de eventos de Windows exportados en formato EVTX. |
 | <img src="https://www.google.com/s2/favicons?domain=jqlang.org&amp;sz=32" width="16" height="16" alt=""> [jq](https://jqlang.org/download/) | Línea de comandos | Permite filtrar y transformar registros en formato JSON. |
+| <img src="https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=32" width="16" height="16" alt=""> [Autoruns](autoruns/README.md) | Portable para Windows | Identifica qué programas y tareas se inician automáticamente. |
+| <img src="https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=32" width="16" height="16" alt=""> [Process Explorer](process-explorer/README.md) | Portable para Windows | Identifica qué proceso tiene abierto un archivo o ha cargado una DLL. |
