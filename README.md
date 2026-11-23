@@ -7,7 +7,7 @@ Catálogo en español que reúne herramientas de código abierto para OSINT, cib
 <p align="center">
   <a href="web/README.md"><img src="https://img.shields.io/badge/Herramientas%20web-14283F?style=flat-square" alt="Herramientas web"></a>
   <a href="instalables/README.md"><img src="https://img.shields.io/badge/Herramientas%20de%20escritorio-065F46?style=flat-square" alt="Herramientas de escritorio"></a>
-  <a href="#tutoriales-y-casos-de-uso"><img src="https://img.shields.io/badge/Tutoriales%20y%20casos-14283F?style=flat-square" alt="Tutoriales y casos de uso"></a>
+  <a href="https://github.com/fefemora/herramientas-ciberseguridad/blob/tutoriales-y-casos-de-uso/tutoriales/README.md"><img src="https://img.shields.io/badge/Tutoriales%20y%20casos-14283F?style=flat-square" alt="Tutoriales y casos de uso"></a>
 </p>
 
 ## [<img src="assets/icono-web.svg" width="24" height="24" alt=""> Herramientas web](web/README.md)
@@ -24,14 +24,8 @@ Aplicaciones instalables, portables y utilidades de línea de comandos para Wind
 
 <a name="qué-necesitas-resolver"></a>
 
-## Tutoriales y casos de uso
+<a name="tutoriales-y-casos-de-uso"></a>
 
-Las guías parten de una situación concreta, muestran cómo usar la herramienta y explican cómo interpretar el resultado. En cada catálogo encontrarás las guías junto a las herramientas que documentan.
+## [📘 Tutoriales y casos de uso](https://github.com/fefemora/herramientas-ciberseguridad/blob/tutoriales-y-casos-de-uso/tutoriales/README.md)
 
-| Guía | Caso práctico |
-| --- | --- |
-| <img src="https://www.google.com/s2/favicons?domain=abuseipdb.com&amp;sz=32" width="16" height="16" alt=""> [AbuseIPDB](web/abuseipdb/README.md#revisar-reportes-de-abuso-sobre-una-ip) | Consultar reportes públicos asociados a una IP. |
-| <img src="https://www.google.com/s2/favicons?domain=virustotal.com&amp;sz=32" width="16" height="16" alt=""> [VirusTotal](web/virustotal/README.md#revisar-un-archivo-sospechoso-por-sha-256) | Buscar un informe de un archivo por su hash SHA-256. |
-| <img src="https://www.google.com/s2/favicons?domain=dnschecker.org&amp;sz=32" width="16" height="16" alt=""> [DNSChecker](web/dnschecker/README.md#comprobar-un-cambio-de-registro-a) | Verificar si un cambio de DNS ya se refleja en distintos resolvedores. |
-| <img src="https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=32" width="16" height="16" alt=""> [Autoruns](instalables/autoruns/README.md#identificar-qué-aplicación-se-abre-al-iniciar-sesión) | Identificar qué aplicación se abre al iniciar sesión en Windows. |
-| <img src="https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=32" width="16" height="16" alt=""> [Process Explorer](instalables/process-explorer/README.md#averiguar-qué-programa-tiene-abierto-un-archivo) | Averiguar qué programa tiene abierto un archivo. |
+Las guías parten de una situación concreta, muestran cómo usar la herramienta y explican cómo interpretar el resultado. El índice reúne los casos publicados para herramientas web y de escritorio.
