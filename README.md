@@ -10,13 +10,13 @@ Catálogo en español que reúne herramientas de código abierto para OSINT, cib
   <a href="#tutoriales-y-casos-de-uso"><img src="https://img.shields.io/badge/Tutoriales%20y%20casos-14283F?style=flat-square" alt="Tutoriales y casos de uso"></a>
 </p>
 
-## Herramientas web
+## [Herramientas web](web/README.md)
 
 Aplicaciones que se usan desde el navegador para consultar información pública, analizar indicadores y diagnosticar servicios como DNS y correo.
 
 [OSINT](web/README.md#osint) · [Ciberseguridad](web/README.md#ciberseguridad) · [Soporte y diagnóstico TI](web/README.md#soporte-y-diagnóstico-ti)
 
-## Herramientas de escritorio
+## [Herramientas de escritorio](instalables/README.md)
 
 Aplicaciones instalables, portables y utilidades de línea de comandos para Windows. Permiten revisar archivos, procesos, conexiones y registros en el equipo.
 
