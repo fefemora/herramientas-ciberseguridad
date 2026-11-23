@@ -2,15 +2,42 @@
 
 <p align="center"><img src="../assets/web.svg" alt="" width="100%"></p>
 
-[Volver a la portada](../README.md) · [Ver instalables](../instalables/README.md)
+[Volver a la portada](../README.md) · [Ver herramientas de escritorio](../instalables/README.md)
 
-<p align="center">
-  <a href="#dns-correo-y-sitios-web"><img src="https://img.shields.io/badge/DNS%20y%20correo-14283F?style=flat-square" alt="DNS y correo"></a>
-  <a href="#archivos-sospechosos-filtraciones-y-reputación"><img src="https://img.shields.io/badge/Reputaci%C3%B3n-065F46?style=flat-square" alt="Reputación"></a>
-  <a href="#recuperación-de-archivos"><img src="https://img.shields.io/badge/Recuperaci%C3%B3n-14283F?style=flat-square" alt="Recuperación"></a>
-</p>
+[OSINT](#osint) · [Ciberseguridad](#ciberseguridad) · [Soporte y diagnóstico TI](#soporte-y-diagnóstico-ti)
 
-## DNS, correo y sitios web
+<a name="archivos-sospechosos-filtraciones-y-reputación"></a>
+
+## OSINT
+
+Consulta de informes y fuentes públicas para verificar enlaces y direcciones IP.
+
+| Herramienta | Para qué sirve |
+| --- | --- |
+| <img src="https://www.google.com/s2/favicons?domain=urlscan.io&amp;sz=32" width="16" height="16" alt=""> [urlscan.io](https://urlscan.io/) | Sirve para buscar análisis previos de páginas y revisar sus redirecciones y capturas. [Ver guía](urlscan/README.md) |
+| <img src="https://www.google.com/s2/favicons?domain=urlhaus.abuse.ch&amp;sz=32" width="16" height="16" alt=""> [URLhaus](https://urlhaus.abuse.ch/browse/) | Permite consultar si una URL está asociada a la distribución de malware. [Ver guía](urlhaus/README.md) |
+| <img src="https://www.google.com/s2/favicons?domain=abuseipdb.com&amp;sz=32" width="16" height="16" alt=""> [AbuseIPDB](https://www.abuseipdb.com/) | Muestra los reportes de abuso asociados a una dirección IP. [Ver guía](abuseipdb/README.md) |
+
+<a name="recuperación-de-archivos"></a>
+
+## Ciberseguridad
+
+Análisis de archivos, revisión de filtraciones y recuperación ante ransomware.
+
+| Herramienta | Para qué sirve |
+| --- | --- |
+| <img src="https://www.google.com/s2/favicons?domain=virustotal.com&amp;sz=32" width="16" height="16" alt=""> [VirusTotal](https://www.virustotal.com/) | Permite buscar informes de archivos por hash y consultar la reputación de dominios o URL. [Ver guía](virustotal/README.md) |
+| <img src="https://www.google.com/s2/favicons?domain=haveibeenpwned.com&amp;sz=32" width="16" height="16" alt=""> [Have I Been Pwned](https://haveibeenpwned.com/) | Indica si una dirección de correo aparece en filtraciones conocidas. [Ver guía](have-i-been-pwned/README.md) |
+| <img src="https://www.google.com/s2/favicons?domain=gchq.github.io&amp;sz=32" width="16" height="16" alt=""> [CyberChef](https://gchq.github.io/CyberChef/) | Decodifica datos y calcula hashes directamente en el navegador. [Código fuente](https://github.com/gchq/CyberChef). [Ver guía](cyberchef/README.md) |
+| <img src="https://www.google.com/s2/favicons?domain=nomoreransom.org&amp;sz=32" width="16" height="16" alt=""> [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) | Ayuda a encontrar un descifrador para una familia de ransomware. Los descifradores se ejecutan localmente. [Ver guía](no-more-ransom/README.md) |
+
+Para revisar un archivo interno, busca primero su hash. Antes de enviar archivos o URL a un servicio externo, revisa la visibilidad de los resultados y si los datos incluyen información confidencial.
+
+<a name="dns-correo-y-sitios-web"></a>
+
+## Soporte y diagnóstico TI
+
+Diagnóstico de DNS, correo y configuración de sitios web.
 
 | Herramienta | Para qué sirve |
 | --- | --- |
@@ -20,22 +47,3 @@
 | <img src="https://www.google.com/s2/favicons?domain=ssllabs.com&amp;sz=32" width="16" height="16" alt=""> [Qualys SSL Labs](https://www.ssllabs.com/ssltest/) | Evalúa el certificado, la cadena de confianza y la configuración TLS de un sitio público. [Ver guía](qualys-ssl-labs/README.md) |
 | <img src="https://www.google.com/s2/favicons?domain=securityheaders.com&amp;sz=32" width="16" height="16" alt=""> [SecurityHeaders](https://securityheaders.com/) | Muestra las cabeceras de seguridad HTTP que entrega un sitio. [Ver guía](securityheaders/README.md) |
 | <img src="https://www.google.com/s2/favicons?domain=internet.nl&amp;sz=32" width="16" height="16" alt=""> [Internet.nl](https://internet.nl/) | Comprueba si un sitio web o un servicio de correo admite estándares de seguridad. [Código fuente](https://github.com/internetstandards/Internet.nl). [Ver guía](internet-nl/README.md) |
-
-## Archivos sospechosos, filtraciones y reputación
-
-| Herramienta | Para qué sirve |
-| --- | --- |
-| <img src="https://www.google.com/s2/favicons?domain=virustotal.com&amp;sz=32" width="16" height="16" alt=""> [VirusTotal](https://www.virustotal.com/) | Permite buscar informes de archivos por hash y consultar la reputación de dominios o URL. [Ver guía](virustotal/README.md) |
-| <img src="https://www.google.com/s2/favicons?domain=haveibeenpwned.com&amp;sz=32" width="16" height="16" alt=""> [Have I Been Pwned](https://haveibeenpwned.com/) | Indica si una dirección de correo aparece en filtraciones conocidas. [Ver guía](have-i-been-pwned/README.md) |
-| <img src="https://www.google.com/s2/favicons?domain=urlscan.io&amp;sz=32" width="16" height="16" alt=""> [urlscan.io](https://urlscan.io/) | Sirve para buscar análisis previos de páginas y revisar sus redirecciones y capturas. [Ver guía](urlscan/README.md) |
-| <img src="https://www.google.com/s2/favicons?domain=urlhaus.abuse.ch&amp;sz=32" width="16" height="16" alt=""> [URLhaus](https://urlhaus.abuse.ch/browse/) | Permite consultar si una URL está asociada a la distribución de malware. [Ver guía](urlhaus/README.md) |
-| <img src="https://www.google.com/s2/favicons?domain=abuseipdb.com&amp;sz=32" width="16" height="16" alt=""> [AbuseIPDB](https://www.abuseipdb.com/) | Muestra los reportes de abuso asociados a una dirección IP. [Ver guía](abuseipdb/README.md) |
-| <img src="https://www.google.com/s2/favicons?domain=gchq.github.io&amp;sz=32" width="16" height="16" alt=""> [CyberChef](https://gchq.github.io/CyberChef/) | Decodifica datos y calcula hashes directamente en el navegador. [Código fuente](https://github.com/gchq/CyberChef). [Ver guía](cyberchef/README.md) |
-
-## Recuperación de archivos
-
-| Herramienta | Para qué sirve |
-| --- | --- |
-| <img src="https://www.google.com/s2/favicons?domain=nomoreransom.org&amp;sz=32" width="16" height="16" alt=""> [No More Ransom](https://www.nomoreransom.org/en/decryption-tools.html) | Ayuda a encontrar un descifrador para una familia de ransomware. Los descifradores se ejecutan localmente. [Ver guía](no-more-ransom/README.md) |
-
-Para revisar un archivo interno, busca primero su hash. Antes de enviar archivos o URL a un servicio externo, revisa la visibilidad de los resultados y si los datos incluyen información confidencial.

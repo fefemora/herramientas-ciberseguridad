@@ -1,4 +1,4 @@
-# Herramientas instalables
+# Herramientas de escritorio
 
 <p align="center"><img src="../assets/instalables.svg" alt="" width="100%"></p>
 
